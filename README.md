@@ -1,2 +1,6 @@
 # senac
-Senac de Juiz de Fora e a Educação Inclusiva
+Lauro de Oliveira Lima na Imprensa do Rio de Janeiro
+ Marco Aurélio Rodrigues Dias
+
+O objetivo deste trabalho é contextualizar o professor Lauro de Oliveira Lima dentro da realidade sociocultural que vivi na década de 60 no subúrbio do Rio de Janeiro. Seus argumentos pedagógicos na imprensa defendendo a inteligência das pessoas que não a desenvolveram para o ensino formal e reivindicando educação de qualidade, transformaram minha percepção da realidade social. Se eu aprendia que os adultos eram pessoas formadas, passei a compreender que a pessoa nunca está formada; se aprendia que o pobre era analfabeto por conta de uma incapacidade mental que o impedia de aprender, descobri que lhe faltou foi oportunidade. Passei a desconfiar que muita coisa podia estar errada no que me ensinavam a partir do senso comum. Migrei do mito para a Ciência. A presente investigação filosófica sobre essa transformação dar-se-á mediante a comparação entre o pensamento de Lima sobre a “formação continuada” e o pensamento do senso comum acerca do conceito de “pessoa formada”. Pretende-se, com essa estratégia, conhecer a indignação que fazia de Lima um defensor da “formação continuada” e um crítico do preconceito de que os pobres não se formavam doutores porque tinham déficit de inteligência.
+https://doi.org/10.5281/zenodo.7598870
