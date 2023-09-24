@@ -1,4 +1,4 @@
-# senac
+# L.O.Lima na imprensa carioca
 Lauro de Oliveira Lima na Imprensa do Rio de Janeiro
  Marco Aurélio Rodrigues Dias
 
