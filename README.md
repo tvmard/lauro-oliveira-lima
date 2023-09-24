@@ -1,4 +1,4 @@
-# Lauro OliveiraLima na imprensa carioca
+# Lauro Oliveira Lima na imprensa carioca
 Lauro de Oliveira Lima na Imprensa do Rio de Janeiro
  Marco Aurélio Rodrigues Dias
 
